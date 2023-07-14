@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My website</title>
-    <link>blog.eekhdv.ru/posts/</link>
+    <link>http://blog.eekhdv.ru/posts/</link>
     <description>Recent content in Posts on My website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2023 08:40:08 +0300</lastBuildDate><atom:link href="blog.eekhdv.ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 08:40:08 +0300</lastBuildDate><atom:link href="http://blog.eekhdv.ru/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>blog.eekhdv.ru/posts/my-first-post/</link>
+      <link>http://blog.eekhdv.ru/posts/my-first-post/</link>
       <pubDate>Fri, 14 Jul 2023 08:40:08 +0300</pubDate>
       
-      <guid>blog.eekhdv.ru/posts/my-first-post/</guid>
+      <guid>http://blog.eekhdv.ru/posts/my-first-post/</guid>
       <description>Introduction Hello! This is my first post!
 Contacts Visit my GitHub page!
 or
