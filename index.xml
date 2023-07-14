@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>edem khadiev</title>
+    <title>You don&#39;t start out writing good stuff on edem khadiev</title>
     <link>http://blog.eekhdv.ru/</link>
-    <description>Recent content on edem khadiev</description>
+    <description>Recent content in You don&#39;t start out writing good stuff on edem khadiev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jul 2023 08:40:08 +0300</lastBuildDate><atom:link href="http://blog.eekhdv.ru/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,18 @@
       <pubDate>Fri, 14 Jul 2023 08:40:08 +0300</pubDate>
       
       <guid>http://blog.eekhdv.ru/posts/my-first-post/</guid>
-      <description>Introduction Hello! This is my first post!
-Contacts Visit my GitHub page!
-or
-Write me in Telegram !</description>
+      <description>Some lists here Unordered list Saxum sustinuit pugnatum medere temptamenta vellera mihi Thalamoque lugubris qui loco croceum Torque exploratis ornum intexuit gestamina est Ordered list Verbis meorum canes intraverat simul in quem Cutis mirabile tandemque ut in dominis Abarin Marmore deus orant Some code here to show and example Here is the traditional Hello World program that uses Linux System calls, for a 64-bit installation (using GAS):
+.global _start .text _start: # write(1, message, 13) mov $1, %rax # system call 1 is write mov $1, %rdi # file handle 1 is stdout mov $message, %rsi # address of string to output mov $13, %rdx # number of bytes syscall # invoke operating system to do the write # exit(0) mov $60, %rax # system call 60 is exit xor %rdi, %rdi # we want return code 0 syscall # invoke operating system to exit message: .</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://blog.eekhdv.ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/about/</guid>
+      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
     </item>
     
   </channel>

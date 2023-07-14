@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.eekhdv.ru/</loc>
+    <loc>http://blog.eekhdv.ru/tags/lorem/</loc>
     <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
     <loc>http://blog.eekhdv.ru/posts/my-first-post/</loc>
     <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
-    <loc>http://blog.eekhdv.ru/posts/</loc>
+    <loc>http://blog.eekhdv.ru/tags/</loc>
     <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
-    <loc>http://blog.eekhdv.ru/categories/</loc>
+    <loc>http://blog.eekhdv.ru/tags/time/</loc>
+    <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
-    <loc>http://blog.eekhdv.ru/tags/</loc>
+    <loc>http://blog.eekhdv.ru/tags/writing/</loc>
+    <lastmod>2023-07-14T08:40:08+03:00</lastmod>
+  </url><url>
+    <loc>http://blog.eekhdv.ru/</loc>
+    <lastmod>2023-07-14T08:40:08+03:00</lastmod>
+  </url><url>
+    <loc>http://blog.eekhdv.ru/posts/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.eekhdv.ru/about/</loc>
+  </url><url>
+    <loc>http://blog.eekhdv.ru/categories/</loc>
   </url>
 </urlset>

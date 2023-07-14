@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on edem khadiev</title>
+    <link>http://blog.eekhdv.ru/tags/writing/</link>
+    <description>Recent content in writing on edem khadiev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2023 08:40:08 +0300</lastBuildDate><atom:link href="http://blog.eekhdv.ru/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://blog.eekhdv.ru/posts/my-first-post/</link>
+      <pubDate>Fri, 14 Jul 2023 08:40:08 +0300</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/posts/my-first-post/</guid>
+      <description>Some lists here Unordered list Saxum sustinuit pugnatum medere temptamenta vellera mihi Thalamoque lugubris qui loco croceum Torque exploratis ornum intexuit gestamina est Ordered list Verbis meorum canes intraverat simul in quem Cutis mirabile tandemque ut in dominis Abarin Marmore deus orant Some code here to show and example Here is the traditional Hello World program that uses Linux System calls, for a 64-bit installation (using GAS):
+.global _start .text _start: # write(1, message, 13) mov $1, %rax # system call 1 is write mov $1, %rdi # file handle 1 is stdout mov $message, %rsi # address of string to output mov $13, %rdx # number of bytes syscall # invoke operating system to do the write # exit(0) mov $60, %rax # system call 60 is exit xor %rdi, %rdi # we want return code 0 syscall # invoke operating system to exit message: .</description>
+    </item>
+    
+  </channel>
+</rss>
