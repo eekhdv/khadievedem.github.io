@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog.eekhdv.com/posts/my-first-post/</loc>
+    <loc>blog.eekhdv.ru/posts/my-first-post/</loc>
     <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
-    <loc>blog.eekhdv.com/</loc>
+    <loc>blog.eekhdv.ru/</loc>
     <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
-    <loc>blog.eekhdv.com/posts/</loc>
+    <loc>blog.eekhdv.ru/posts/</loc>
     <lastmod>2023-07-14T08:40:08+03:00</lastmod>
   </url><url>
-    <loc>blog.eekhdv.com/categories/</loc>
+    <loc>blog.eekhdv.ru/categories/</loc>
   </url><url>
-    <loc>blog.eekhdv.com/tags/</loc>
+    <loc>blog.eekhdv.ru/tags/</loc>
   </url>
 </urlset>
