@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>You don&#39;t start out writing good stuff on eekhdv</title>
+    <title>Blog on eekhdv</title>
     <link>http://blog.eekhdv.ru/</link>
-    <description>Recent content in You don&#39;t start out writing good stuff on eekhdv</description>
+    <description>Recent content in Blog on eekhdv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jul 2023 08:40:08 +0300</lastBuildDate><atom:link href="http://blog.eekhdv.ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asus Zenbook Numpad Driver</title>
+      <link>http://blog.eekhdv.ru/projects/asus_zenbook_driver/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/asus_zenbook_driver/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Notification daemon for Linux</title>
+      <link>http://blog.eekhdv.ru/projects/notificaiton_daemon/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/notificaiton_daemon/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>TASM email parser</title>
+      <link>http://blog.eekhdv.ru/projects/tasm_parser/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/tasm_parser/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Multiple client TCP server</title>
+      <link>http://blog.eekhdv.ru/projects/tcp_server/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/tcp_server/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Course Work (backend for a mobile app)</title>
+      <link>http://blog.eekhdv.ru/projects/course_work_backend/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/course_work_backend/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://blog.eekhdv.ru/posts/my-first-post/</link>
@@ -18,13 +63,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>http://blog.eekhdv.ru/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://blog.eekhdv.ru/about/</guid>
-      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
-Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
+      <description>I&amp;rsquo;m Embedded Developer with good communication skills and very enthusiastic about learning new things.
+Education Academic lyceum at the Uni named after Gubkin (2019 - 2021) Technical Science, secondary general edu. Higher School of Econimics (2021 - 2025) Software Engineering, bachelor’s degree. Interests Embedded &amp;amp;&amp;amp; Linux kernel development Art Sport Skills { &amp;#34;Languages&amp;#34;: [ &amp;#34;C (embedded)&amp;#34;, &amp;#34;C++&amp;#34;, &amp;#34;Rust&amp;#34;, &amp;#34;Python&amp;#34;, [&amp;#34;TASM&amp;#34;, &amp;#34;GAS&amp;#34;, &amp;#34;NASM&amp;#34;], &amp;#34;Java&amp;#34;, ], &amp;#34;Other stuff&amp;#34;: [ &amp;#34;Linux&amp;#34;, &amp;#34;Git&amp;#34;, &amp;#34;Docker&amp;#34; &amp;#34;And the list goes on.</description>
     </item>
     
   </channel>

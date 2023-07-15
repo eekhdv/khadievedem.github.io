@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on eekhdv</title>
+    <link>http://blog.eekhdv.ru/projects/</link>
+    <description>Recent content in Projects on eekhdv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.eekhdv.ru/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asus Zenbook Numpad Driver</title>
+      <link>http://blog.eekhdv.ru/projects/asus_zenbook_driver/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/asus_zenbook_driver/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Notification daemon for Linux</title>
+      <link>http://blog.eekhdv.ru/projects/notificaiton_daemon/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/notificaiton_daemon/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>TASM email parser</title>
+      <link>http://blog.eekhdv.ru/projects/tasm_parser/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/tasm_parser/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Multiple client TCP server</title>
+      <link>http://blog.eekhdv.ru/projects/tcp_server/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/tcp_server/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+    <item>
+      <title>Course Work (backend for a mobile app)</title>
+      <link>http://blog.eekhdv.ru/projects/course_work_backend/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.eekhdv.ru/projects/course_work_backend/</guid>
+      <description>GitHub Link</description>
+    </item>
+    
+  </channel>
+</rss>
